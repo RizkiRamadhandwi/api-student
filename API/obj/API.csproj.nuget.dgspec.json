@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj": {}
+    "C:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj": {
+    "C:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj",
+        "projectPath": "C:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Rizki\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\obj\\",
+        "outputPath": "C:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rizki\\AppData\\Roaming\\NuGet\\NuGet.Config"

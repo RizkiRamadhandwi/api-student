@@ -3018,11 +3018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj",
+      "projectUniqueName": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\API.csproj",
+      "projectPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Rizki\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api\\api-student\\obj\\",
+      "outputPath": "c:\\Users\\Rizki\\OneDrive\\Documents\\C#\\api-student\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rizki\\AppData\\Roaming\\NuGet\\NuGet.Config"
